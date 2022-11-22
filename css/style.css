@@ -7263,7 +7263,7 @@ ul.marker-list {
     ul.marker-list li:before {
       content: '\e906';
       font-size: 15px;
-      font-family: 'dentco';
+      font-family: 'icomoon';
       position: absolute;
       left: 0;
       top: 0;
@@ -7296,7 +7296,7 @@ ul.marker-list-md {
     ul.marker-list-md li:before {
       content: '\e906';
       font-size: 10px;
-      font-family: 'dentco';
+      font-family: 'icomoon';
       position: absolute;
       left: 0;
       top: 1px;
@@ -7324,7 +7324,7 @@ ul.marker-list-sm {
     ul.marker-list-sm li:before {
       content: '\e906';
       font-size: 12px;
-      font-family: 'dentco';
+      font-family: 'icomoon';
       position: absolute;
       left: 0;
       top: 0;
@@ -8172,7 +8172,7 @@ body.touch .tooltip.show {
     transition: 0.3s; }
     .services-nav ul .nav-link:before {
       content: '\e921';
-      font-family: 'dentco';
+      font-family: 'icomoon';
       position: absolute;
       left: 24px;
       top: 17px;
@@ -9060,7 +9060,7 @@ form label {
     font-size: 14px; }
   .bootstrap-datetimepicker-widget [class^="icon-"],
   .bootstrap-datetimepicker-widget [class*=" icon-"] {
-    font-family: 'dentco' !important;
+    font-family: 'icomoon' !important;
     padding-left: 0 !important; }
   .bootstrap-datetimepicker-widget .btn [class*='icon']:first-child,
   .bootstrap-datetimepicker-widget .btn:focus [class*='icon']:first-child,
@@ -9169,7 +9169,7 @@ label.number-label {
     top: 50%;
     right: 2px;
     content: '\e906';
-    font-family: 'dentco';
+    font-family: 'icomoon';
     font-size: 10px;
     color: #212121; }
 
@@ -9275,7 +9275,7 @@ form.contact-form textarea + label.error {
   .review-rating > label:before {
     margin: 0 3px 0 0;
     font-size: 22px;
-    font-family: 'dentco';
+    font-family: 'icomoon';
     display: inline-block;
     content: "\e90f";
     transition: 0.2s; }
@@ -10324,7 +10324,7 @@ body.noScroll {
     margin: 0;
     height: auto;
     content: '\e930';
-    font-family: 'dentco';
+    font-family: 'icomoon';
     font-size: 8px;
     transform: translateY(-50%);
     color: #1490B1;
@@ -10402,7 +10402,7 @@ body.noScroll {
       margin: 0;
       height: auto;
       content: '\e930';
-      font-family: 'dentco';
+      font-family: 'icomoon';
       font-size: 12px;
       transform: translateY(-50%);
       color: #1490B1;
@@ -10425,7 +10425,7 @@ body.noScroll {
     margin: 0;
     height: auto;
     content: '\e930';
-    font-family: 'dentco';
+    font-family: 'icomoon';
     font-size: 12px;
     transform: translateY(-50%);
     color: #1490B1;
@@ -10460,7 +10460,7 @@ body.noScroll {
     cursor: pointer; }
     .header-mobile-info-toggle:before {
       display: inline-block;
-      font-family: 'dentco';
+      font-family: 'icomoon';
       content: '\e931';
       font-size: 16px;
       line-height: 44px;
@@ -12934,7 +12934,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   content: '\e937';
   text-align: center;
   font-size: 15px;
-  font-family: 'dentco';
+  font-family: 'icomoon';
   line-height: 30px; }
 
 .mfp-arrow:after {
@@ -13015,10 +13015,10 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   font-size: 13px;
   line-height: 75px; }
 .slider-gallery .slick-next:before {
-  content: "\e930";
+  content: "\e917";
   padding-left: 4px; }
 .slider-gallery .slick-prev:before {
-  content: "\e922";
+  content: "\e916";
   padding-right: 2px; }
 
 .slider-gallery-thumbs .slick-prev, .slider-gallery-thumbs .slick-next {
@@ -14661,7 +14661,7 @@ body:not(.touch) .filters-by-category ul a:hover {
 
 .slick-prev:before,
 .slick-next:before {
-  font-family: 'dentco';
+  font-family: 'icomoon';
   font-size: 10px;
   line-height: 43px;
   cursor: pointer;
