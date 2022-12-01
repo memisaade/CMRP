@@ -8180,7 +8180,7 @@ body.touch .tooltip.show {
       display: block;
       color: #1490B1; }
     .services-nav ul .nav-link:hover, .services-nav ul .nav-link.active {
-      background: #00f7f1;
+      background: #1490B1;
       color: #fff; }
       .services-nav ul .nav-link:hover:before, .services-nav ul .nav-link.active:before {
         color: #fff; }
@@ -15410,7 +15410,7 @@ body:not(.touch) .filters-by-category ul a:hover {
       border-radius: 0; }
 
 .contact-box {
-  background-color: #00e2dd;
+  background-color: #1490B1;
   padding: 28px 25px;
   height: 100%; }
   .contact-box, .contact-box a {
@@ -15433,7 +15433,7 @@ body:not(.touch) .filters-by-category ul a:hover {
       color: #77fffc; }
 
 .contact-box-2 {
-  background-color: #02fff9; }
+  background-color: #0096C7; }
 
 .question-box {
   background-color: #f8f8f8;
