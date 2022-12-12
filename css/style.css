@@ -328,8 +328,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: 'Barlow', sans-serif;
-  font-weight: 500;
+  font-family: 'Source Sans Pro', sans-serif;  font-weight: 500;
   line-height: 1.2;
   color: #444; }
 
@@ -6226,8 +6225,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1,
 .h1 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1em;
   margin-bottom: 10px;
   font-weight: 600; }
   @media (max-width: 1023px) {
@@ -6256,8 +6254,7 @@ h1,
       top: -7px; } }
 
 h2 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1em;
   margin-bottom: 10px;
   font-weight: 600; }
   @media (max-width: 1023px) {
@@ -6281,8 +6278,7 @@ h2 {
       top: -10px; } }
 
 h3 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1em;
   margin-bottom: 20px;
   font-weight: 600; }
   @media (max-width: 1023px) {
@@ -6298,8 +6294,7 @@ h3 {
     width: 27px; }
 
 h4 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1.55em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1.55em;
   margin-bottom: 18px;
   font-weight: 600; }
   @media (max-width: 1023px) {
@@ -6310,8 +6305,7 @@ h4 {
       font-size: 18px; } }
 
 h5 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1em;
   margin-bottom: 20px;
   font-weight: 600; }
   @media (max-width: 1023px) {
@@ -6332,8 +6326,7 @@ h2 + h5 {
   margin-top: 5px; }
 
 h6 {
-  font-family: 'Barlow', sans-serif;
-  line-height: 1.2em;
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1.2em;
   margin-bottom: 22px; }
   @media (max-width: 1229px) {
     h6 {
@@ -6347,8 +6340,7 @@ h6 {
   font-size: 17px;
   line-height: 1.2em;
   font-weight: 500;
-  font-family: 'Barlow', sans-serif;
-  letter-spacing: 1px; }
+  font-family: 'Source Sans Pro', sans-serif;  letter-spacing: 1px; }
   @media (max-width: 1023px) {
     .h-sub {
       font-size: 15px;
@@ -6447,8 +6439,7 @@ h6 {
   font-size: 16px;
   line-height: 18px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  letter-spacing: .6px;
+  font-family: 'Source Sans Pro', sans-serif;  letter-spacing: .6px;
   color: #1490B1; }
   .btn-link [class*='icon'] {
     position: relative;
@@ -6476,8 +6467,7 @@ h6 {
   font-size: 15px;
   line-height: 18px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  padding: 15px 25px;
+  font-family: 'Source Sans Pro', sans-serif;  padding: 15px 25px;
   color: #1490B1;
   border: 2px solid #1490B1;
   border-radius: 26px;
@@ -6942,8 +6932,7 @@ ul.numbered-list-xl {
       font-size: 30px;
       line-height: 1em;
       font-weight: 700;
-      font-family: 'Barlow', sans-serif;
-      content: attr(data-num);
+      font-family: 'Source Sans Pro', sans-serif;      content: attr(data-num);
       counter-increment: li;
       height: 83px;
       width: 83px;
@@ -7661,8 +7650,7 @@ ul.services-list {
   font-size: 72px;
   line-height: 1em;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  margin-bottom: 10px;
+  font-family: 'Source Sans Pro', sans-serif;  margin-bottom: 10px;
   color: #1490B1; }
   @media (max-width: 1023px) {
     .icn-text-num-number {
@@ -7671,8 +7659,7 @@ ul.services-list {
   font-size: 20px;
   line-height: 28px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #444; }
+  font-family: 'Source Sans Pro', sans-serif;  color: #444; }
   @media (max-width: 1023px) {
     .icn-text-num-title {
       font-size: 17px;
@@ -7871,8 +7858,7 @@ body.touch .tooltip.show {
 
 .info-box-price {
   font-size: 50px;
-  font-family: 'Barlow', sans-serif;
-  line-height: 1em; }
+  font-family: 'Source Sans Pro', sans-serif;  line-height: 1em; }
 
 .info-box-color + *,
 .info-box-grey + * {
@@ -7932,8 +7918,7 @@ body.touch .tooltip.show {
     line-height: 1em;
     font-weight: 600;
     font-style: normal;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1; }
     @media (max-width: 1023px) {
       .quote:after {
         font-size: 120px;
@@ -8039,8 +8024,7 @@ body.touch .tooltip.show {
     border: 0;
     border-radius: 0;
     font-size: 20px;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;    font-weight: 500;
     color: #ffffff;
     background: transparent;
     border-bottom: 1px solid #696969; }
@@ -8079,8 +8063,7 @@ body.touch .tooltip.show {
     border: 0;
     border-radius: 0;
     font-size: 14px;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;    font-weight: 600;
     letter-spacing: .75px;
     color: #444444; }
     @media (max-width: 575px) {
@@ -8102,8 +8085,7 @@ body.touch .tooltip.show {
   font-size: 14px;
   font-weight: 600;
   line-height: 19px;
-  font-family: 'Barlow', sans-serif;
-  padding: 14px 16px;
+  font-family: 'Source Sans Pro', sans-serif;  padding: 14px 16px;
   color: #444;
   border: 1px solid #d5d5d5;
   border-radius: 25px;
@@ -8146,8 +8128,7 @@ body.touch .tooltip.show {
     font-size: 16px;
     line-height: 24px;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #444;
+    font-family: 'Source Sans Pro', sans-serif;    color: #444;
     padding: 15px;
     transition: 0.3s; }
   .services-nav ul .nav-item {
@@ -8195,8 +8176,7 @@ body.touch .tooltip.show {
     background-color: #fff;
     font-size: 38px;
     line-height: 45px;
-    font-family: 'Barlow', sans-serif;
-    padding: 15px 28px; }
+    font-family: 'Source Sans Pro', sans-serif;    padding: 15px 28px; }
     @media (max-width: 1023px) {
       .service-img-caption {
         padding: 10px 18px;
@@ -8399,8 +8379,7 @@ body.touch .tooltip.show {
     left: 0;
     padding: 20px 76px 20px 30px;
     height: 61px;
-    font-family: 'Barlow', sans-serif;
-    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;    font-size: 14px;
     line-height: 21px;
     font-weight: 600;
     border-radius: 0 30px 30px 0;
@@ -8637,8 +8616,7 @@ body.touch .tooltip.show {
     font-size: 48px;
     line-height: 1em;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1;
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1;
     min-width: 125px;
     padding-right: 15px; }
     @media (max-width: 1023px) {
@@ -8855,8 +8833,7 @@ body.touch .tooltip.show {
     font-size: 42px;
     line-height: 1em;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #5f5f5f; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #5f5f5f; }
     @media (max-width: 1023px) {
       .counter-box-number {
         font-size: 30px; } }
@@ -8879,8 +8856,7 @@ body.touch .tooltip.show {
     font-size: 18px;
     line-height: 1em;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    transform: translateY(-20px);
+    font-family: 'Source Sans Pro', sans-serif;    transform: translateY(-20px);
     color: #444;
     transition: 0.5s ease 1.8s; }
     @media (max-width: 1023px) {
@@ -10124,8 +10100,7 @@ body.noScroll {
     line-height: 52px;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: 'Barlow', sans-serif;
-    background: transparent;
+    font-family: 'Source Sans Pro', sans-serif;    background: transparent;
     border: 0;
     transition: 0.3s; }
     @media (max-width: 1229px) {
@@ -10210,8 +10185,7 @@ body.noScroll {
       font-size: 15px;
       line-height: 26px;
       font-weight: 500;
-      font-family: 'Barlow', sans-serif;
-      background-color: transparent;
+      font-family: 'Source Sans Pro', sans-serif;      background-color: transparent;
       padding: 7px 20px; }
       .header .navbar-nav > .nav-item > .dropdown-menu a.dropdown-toggle, .dropdown-item + .dropdown-menu a.dropdown-toggle {
         padding-right: 40px; }
@@ -10388,8 +10362,7 @@ body.noScroll {
     padding-top: 10px;
     padding-bottom: 10px;
     text-transform: uppercase;
-    font-family: 'Barlow', sans-serif;
-    white-space: normal; }
+    font-family: 'Source Sans Pro', sans-serif;    white-space: normal; }
     .header .dropdown-item:hover, .header .dropdown-item:focus {
       color: #1490B1;
       background: transparent; }
@@ -11001,8 +10974,7 @@ body.noScroll {
   text-decoration: none;
   font-weight: bold;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #444;
+  font-family: 'Source Sans Pro', sans-serif;  color: #444;
   transition: 0.2s; }
   .footer-post-title a:hover {
     text-decoration: none;
@@ -11137,8 +11109,7 @@ body.noScroll {
   #mainSlider .slide-txt2 {
     font-size: 16px;
     line-height: 1em;
-    font-family: 'Barlow', sans-serif;
-    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff;
     margin: 0;
     letter-spacing: .03em; }
     #mainSlider .slide-txt2:not(:first-child) {
@@ -11147,8 +11118,7 @@ body.noScroll {
     font-size: 54px;
     line-height: 1.26em;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff;
     margin: 0;
     text-transform: uppercase; }
     #mainSlider .slide-txt1:not(:first-child) {
@@ -11704,8 +11674,7 @@ body.noScroll {
       font-size: 15px;
       line-height: 18px;
       font-weight: 600;
-      font-family: 'Barlow', sans-serif;
-      border: 0;
+      font-family: 'Source Sans Pro', sans-serif;      border: 0;
       background: transparent;
       color: #444; }
       .services-tab-wrap .nav-pills .nav-link:hover {
@@ -11859,8 +11828,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
   font-size: 14px;
   line-height: 1em;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #444444;
+  font-family: 'Source Sans Pro', sans-serif;  color: #444444;
   transition: 0.2s; }
   @media (max-width: 575px) {
     .department-tab-text {
@@ -12016,8 +11984,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 34px;
     line-height: 1em;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1; }
     @media (max-width: 1229px) {
       .special-card-txt1 {
         font-size: 28px;
@@ -12036,8 +12003,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 20px;
     line-height: 1.2em;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #444; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #444; }
     @media (max-width: 1229px) {
       .special-card-txt2 {
         font-size: 19px;
@@ -12149,13 +12115,11 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
   background: url(../images/banner-bg.jpg) no-repeat 0 bottom; }
   .banner-full-text1 {
     font-size: 70px;
-    font-family: 'Barlow', sans-serif;
-    line-height: 1em;
+    font-family: 'Source Sans Pro', sans-serif;    line-height: 1em;
     color: #fff; }
   .banner-full-text2 {
     font-size: 32px;
-    font-family: 'Barlow', sans-serif;
-    line-height: 1em;
+    font-family: 'Source Sans Pro', sans-serif;    line-height: 1em;
     color: #fff; }
   .banner-full-text3 {
     font-size: 18px;
@@ -12302,8 +12266,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 17px;
     line-height: 1em;
     font-weight: 500;
-    font-family: 'Barlow', sans-serif;
-    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff;
     letter-spacing: 1.5px; }
     .banner-center-text2:not(:first-child) {
       margin-top: 10px; }
@@ -12314,8 +12277,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 24px;
     line-height: 1em;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #fff; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff; }
     .banner-center-text3:not(:first-child) {
       margin-top: 10px; }
     @media (max-width: 1023px) {
@@ -12334,8 +12296,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 18px;
     line-height: 1em;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff;
     letter-spacing: 1px; }
     .banner-center-text4:not(:first-child) {
       margin-top: 20px; }
@@ -12357,8 +12318,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     font-size: 14px;
     line-height: 24px;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff;
     letter-spacing: .55px; }
     .banner-center-text5:not(:first-child) {
       margin-top: 20px; }
@@ -12446,8 +12406,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     max-width: 120%;
     margin-left: -5%; } }
 .banner-call .btn-lg, .banner-call .btn-group-lg > .btn {
-  font-family: 'Barlow', sans-serif;
-  font-weight: 500; }
+  font-family: 'Source Sans Pro', sans-serif;  font-weight: 500; }
 .banner-call p {
   max-width: 555px;
   margin-left: auto;
@@ -12457,8 +12416,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
   font-size: 26px;
   line-height: 1.2em;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #444;
+  font-family: 'Source Sans Pro', sans-serif;  color: #444;
   transition: .2s; }
   @media (max-width: 1023px) {
     .banner-call-phone {
@@ -12603,8 +12561,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
     padding: 20px 45px 19px 25px;
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    line-height: 1em;
+    font-family: 'Source Sans Pro', sans-serif;    line-height: 1em;
     background-color: #fff;
     color: #444;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); }
@@ -12697,8 +12654,7 @@ body:not(.touch) .services-tab-wrap .nav-link:hover {
       font-size: 15px;
       line-height: 18px;
       font-weight: 600;
-      font-family: 'Barlow', sans-serif;
-      letter-spacing: 1px;
+      font-family: 'Source Sans Pro', sans-serif;      letter-spacing: 1px;
       border: 0;
       background: transparent;
       color: #444;
@@ -13177,8 +13133,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   font-size: 26px;
   line-height: 42px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #444;
+  font-family: 'Source Sans Pro', sans-serif;  color: #444;
   text-align: center; }
   .rating-box > *:not(:first-child) {
     margin: 0 0 12px; }
@@ -13345,8 +13300,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
     font-size: 850px;
     line-height: 1em;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #fff; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #fff; }
     @media (max-width: 1229px) {
       .reviews-carousel:before {
         font-size: 740px;
@@ -13550,8 +13504,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
     margin-top: -34px;
     font-size: 200px;
     line-height: 1em;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1;
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1;
     font-weight: bold; }
     @media (max-width: 1023px) {
       .reviews-style2 .reviews-carousel:before {
@@ -13668,8 +13621,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   margin-top: -34px;
   font-size: 200px;
   line-height: 1em;
-  font-family: 'Barlow', sans-serif;
-  color: #707070;
+  font-family: 'Source Sans Pro', sans-serif;  color: #707070;
   font-weight: bold;
   transform: translateX(-50%); }
   @media (max-width: 1023px) {
@@ -13813,8 +13765,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
     font-size: 20px;
     line-height: 32px;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #444; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #444; }
     @media (max-width: 1023px) {
       .testimonial-title {
         font-size: 18px;
@@ -13936,8 +13887,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
     font-size: 850px;
     line-height: 1em;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
-    color: #e5e5e5; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #e5e5e5; }
     @media (max-width: 767px) {
       .testimonial-card:before {
         right: 50%;
@@ -14094,8 +14044,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
     font-size: 14px;
     font-weight: 600;
     line-height: 19px;
-    font-family: 'Barlow', sans-serif;
-    padding: 14px 21px;
+    font-family: 'Source Sans Pro', sans-serif;    padding: 14px 21px;
     color: #444;
     border: 1px solid #d5d5d5;
     border-radius: 25px;
@@ -14145,14 +14094,12 @@ body:not(.touch) .filters-by-category ul a:hover {
     line-height: 34px;
     font-weight: 600;
     margin-bottom: 25px;
-    font-family: 'Barlow', sans-serif;
-    color: #444; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #444; }
   .gallery-hover-item-state {
     font-size: 20px;
     line-height: 30px;
     font-weight: 60;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1; }
   .gallery-hover-item-name {
     font-size: 32px;
     line-height: 40px;
@@ -14880,8 +14827,7 @@ body:not(.touch) .filters-by-category ul a:hover {
     font-size: 14px;
     line-height: 18px;
     font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    color: #1490B1; }
+    font-family: 'Source Sans Pro', sans-serif;    color: #1490B1; }
   .blog-post .post-image img {
     -webkit-transition: transform 0.5s ease 0s;
     -o-transition: transform 0.5s ease 0s;
@@ -14914,8 +14860,7 @@ body:not(.touch) .filters-by-category ul a:hover {
   font-size: 30px;
   line-height: 30px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  background-color: #f5f6f7;
+  font-family: 'Source Sans Pro', sans-serif;  background-color: #f5f6f7;
   color: #424242;
   text-align: center;
   border-radius: 50%;
@@ -14976,8 +14921,7 @@ body:not(.touch) .filters-by-category ul a:hover {
     font-size: 16px;
     line-height: 24px;
     margin-bottom: 0;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 600; }
+    font-family: 'Source Sans Pro', sans-serif;    font-weight: 600; }
     .blog-post.post-preview .post-title a {
       text-decoration: none;
       transition: color 200ms ease; }
@@ -15045,8 +14989,7 @@ body:not(.touch) .filters-by-category ul a:hover {
       .comments-block .comment .text a.reply {
         display: inline-block;
         font-weight: 500;
-        font-family: 'Barlow', sans-serif;
-        color: #1490B1; }
+        font-family: 'Source Sans Pro', sans-serif;        color: #1490B1; }
         .comments-block .comment .text a.reply:hover {
           color: #787878;
           text-decoration: none; }
@@ -15324,8 +15267,7 @@ body:not(.touch) .filters-by-category ul a:hover {
   font-size: 14px;
   line-height: 36px;
   font-weight: 500;
-  font-family: 'Barlow', sans-serif;
-  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;  color: #ffffff;
   background-color: #707070;
   border-radius: 18px;
   text-align: center;
@@ -15503,8 +15445,7 @@ body:not(.touch) .quickLinks.stuck {
     text-align: center;
     font-size: 11px;
     line-height: 14px;
-    font-family: 'Barlow', sans-serif;
-    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;    text-transform: uppercase;
     transition: background-color 0.3s; }
     @media (max-width: 1023px) {
       .quickLinks .col > .link {
@@ -16289,8 +16230,7 @@ body:not(.touch) .quickLinks.stuck {
   .doctor-box-phone {
     font-size: 14px;
     line-height: 30px;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;    font-weight: 600;
     color: #0096c7;
     white-space: nowrap; }
     .doctor-box-phone a {
@@ -16383,8 +16323,7 @@ body:not(.touch) .quickLinks.stuck {
   height: 60px;
   font-size: 14px;
   font-weight: 600;
-  font-family: 'Barlow', sans-serif;
-  color: #1490B1;
+  font-family: 'Source Sans Pro', sans-serif;  color: #1490B1;
   border-top: 1px solid #fafafa;
   text-decoration: none; }
   @media (max-width: 767px) {
@@ -16593,8 +16532,7 @@ body:not(.touch) .quickLinks.stuck {
     padding: 0 30px;
     font-size: 18px;
     line-height: 37px;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;    font-weight: 600;
     color: #444; }
     .doctor-info-phone a {
       color: #444;
@@ -16869,8 +16807,7 @@ ul.category-list {
       font-size: 26px;
       margin-top: 13px;
       font-weight: 600;
-      font-family: 'Barlow', sans-serif;
-      color: #5f5f5f; }
+      font-family: 'Source Sans Pro', sans-serif;      color: #5f5f5f; }
     .prd-info .star-rating {
       margin-top: 8px; }
     .prd-info .btn, body:not(.touch) .prd-info .btn:focus {
@@ -17077,8 +17014,7 @@ ul.category-list {
   font-size: 32px;
   line-height: 1em;
   font-weight: 700;
-  font-family: 'Barlow', sans-serif;
-  color: #1490B1; }
+  font-family: 'Source Sans Pro', sans-serif;  color: #1490B1; }
 
 .product-block-price-comment {
   font-size: 14px;
