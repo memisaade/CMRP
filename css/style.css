@@ -8152,7 +8152,7 @@ body.touch .tooltip.show {
     font-weight: 500;
     transition: 0.3s; }
     .services-nav ul .nav-link:before {
-      content: '\e921';
+      content: '\e917';
       font-family: 'icomoon';
       position: absolute;
       left: 24px;
