@@ -5,16 +5,16 @@
 	$name = $_REQUEST['name'];
 	$phone = $_REQUEST['phone'];
 	$message = $_REQUEST['message'];
-	$headers = "From: $from";
-	$subject = "Contact Form from Clinic Website";
+	$headers = "Desde: $from";
+	$subject = "Web CPMR: Nuevo Mensaje";
 
 	$fields = array();
-	$fields{"name"} = "First name";
+	$fields{"name"} = "Nombre";
 	$fields{"email"} = "Email";
-	$fields{"phone"} = "Phone";
-	$fields{"message"} = "Message";
+	$fields{"phone"} = "Telefono";
+	$fields{"message"} = "Mensaje";
 
-	$body = "Here is what was sent:\n\n";
+	$body = "Esto es lo que se ha enviado:\n\n";
 	foreach($fields as $a => $b){
 		$body .= sprintf("%20s:%s\r\n",$b,$_REQUEST[$a]);
 	}

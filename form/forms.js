@@ -66,15 +66,15 @@
 						},
 						messages: {
 							name: {
-								required: "Please enter your name",
-								minlength: "Your name must consist of at least 2 characters"
+								required: "Por favor ingresá tu nombre",
+								minlength: "Tu nombre debe tener al menos 2 caracteres"
 							},
 							message: {
-								required: "Please enter message",
-								minlength: "Your message must consist of at least 20 characters"
+								required: "Por favor ingresá tu mensaje",
+								minlength: "Tu mensaje debe tener al menos 20 caracteres"
 							},
 							email: {
-								required: "Please enter your email"
+								required: "Por favor ingresá tu correo"
 							}
 						},
 						submitHandler: function submitHandler(form) {
@@ -94,151 +94,6 @@
 					});
 				}
 
-				// question form
-				if (forms.questionForm.length) {
-					var $questionForm = forms.questionForm;
-					$questionForm.validate({
-						rules: {
-							name: {
-								required: true,
-								minlength: 2
-							},
-							messages: {
-								required: true,
-								minlength: 20
-							},
-							email: {
-								required: true,
-								email: true
-							}
-						},
-						messages: {
-							name: {
-								required: "Please enter your name",
-								minlength: "Your name must consist of at least 2 characters"
-							},
-							message: {
-								required: "Please enter message",
-								minlength: "Your message must consist of at least 20 characters"
-							},
-							email: {
-								required: "Please enter your email"
-							}
-						},
-						submitHandler: function submitHandler(form) {
-							$(form).ajaxSubmit({
-								type: "POST",
-								data: $(form).serialize(),
-								url: "form/process-question.php",
-								success: function success() {
-									$('.successform', $questionForm).fadeIn();
-									$questionForm.get(0).reset();
-								},
-								error: function error() {
-									$('.errorform', $questionForm).fadeIn();
-								}
-							});
-						}
-					});
-				}
-				
-				// booking form
-				if (forms.bookingForm.length) {
-					var $bookingForm = forms.bookingForm;
-					$bookingForm.validate({
-						rules: {
-							bookingname: {
-								required: true,
-								minlength: 2
-							},
-							bookingmessages: {
-								required: true,
-								minlength: 20
-							},
-							bookingemail: {
-								required: true,
-								email: true
-							}
-
-						},
-						messages: {
-							bookingname: {
-								required: "Please enter your name",
-								minlength: "Your name must consist of at least 2 characters"
-							},
-							bookingmessage: {
-								required: "Please enter message",
-								minlength: "Your message must consist of at least 20 characters"
-							},
-							bookingemail: {
-								required: "Please enter your email"
-							}
-						},
-						submitHandler: function submitHandler(form) {
-							$(form).ajaxSubmit({
-								type: "POST",
-								data: $(form).serialize(),
-								url: "form/process-booking.php",
-								success: function success() {
-									$('.successform', $bookingForm).fadeIn();
-									$bookingForm.get(0).reset();
-								},
-								error: function error() {
-									$('.errorform', $bookingForm).fadeIn();
-								}
-							});
-						}
-					});
-				}
-				
-				// request form
-				if (forms.requestForm.length) {
-					var $requestForm = forms.requestForm;
-					$requestForm.validate({
-						rules: {
-							requestname: {
-								required: true,
-								minlength: 2
-							},
-							requestmessages: {
-								required: true,
-								minlength: 20
-							},
-							requestemail: {
-								required: true,
-								email: true
-							}
-
-						},
-						messages: {
-							requestname: {
-								required: "Please enter your name",
-								minlength: "Your name must consist of at least 2 characters"
-							},
-							requestmessage: {
-								required: "Please enter message",
-								minlength: "Your message must consist of at least 20 characters"
-							},
-							requestemail: {
-								required: "Please enter your email"
-							}
-						},
-						submitHandler: function submitHandler(form) {
-							$(form).ajaxSubmit({
-								type: "POST",
-								data: $(form).serialize(),
-								url: "form/process-request.php",
-								success: function success() {
-									$('.successform', $requestForm).fadeIn();
-									$requestForm.get(0).reset();
-								},
-								error: function error() {
-									$('.errorform', $requestForm).fadeIn();
-								}
-							});
-						}
-					});
-				}
 
 			
 			});
