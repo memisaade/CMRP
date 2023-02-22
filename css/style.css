@@ -7220,7 +7220,7 @@ ul.categories-list {
     position: relative;
     padding-left: 24px; }
     ul.categories-list li:before {
-      content: '\e917';
+      content: '\e915';
       font-size: 10px;
       font-family: 'icomoon';
       position: absolute;
@@ -7250,7 +7250,7 @@ ul.marker-list {
     position: relative;
     padding-left: 33px; }
     ul.marker-list li:before {
-      content: '\e917';
+      content: '\e915';
       font-size: 15px;
       font-family: 'icomoon';
       position: absolute;
@@ -7283,7 +7283,7 @@ ul.marker-list-md {
     position: relative;
     padding-left: 24px; }
     ul.marker-list-md li:before {
-      content: '\e917';
+      content: '\e915';
       font-size: 10px;
       font-family: 'icomoon';
       position: absolute;
@@ -7311,7 +7311,7 @@ ul.marker-list-sm {
     position: relative;
     padding-left: 20px; }
     ul.marker-list-sm li:before {
-      content: '\e917';
+      content: '\e915';
       font-size: 12px;
       font-family: 'icomoon';
       position: absolute;
@@ -8152,7 +8152,7 @@ body.touch .tooltip.show {
     font-weight: 500;
     transition: 0.3s; }
     .services-nav ul .nav-link:before {
-      content: '\e917';
+      content: '\e915';
       font-family: 'icomoon';
       position: absolute;
       left: 24px;
@@ -9144,7 +9144,7 @@ label.number-label {
     margin-top: -10px;
     top: 50%;
     right: 2px;
-    content: '\e917';
+    content: '\e915';
     font-family: 'icomoon';
     font-size: 10px;
     color: #212121; }
@@ -12971,7 +12971,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   font-size: 13px;
   line-height: 75px; }
 .slider-gallery .slick-next:before {
-  content: "\e917";
+  content: "\e915";
   padding-left: 4px; }
 .slider-gallery .slick-prev:before {
   content: "\e916";
@@ -16618,7 +16618,7 @@ ul.category-list {
       font-weight: 700; }
     ul.category-list li:before {
       font-family: 'icomoon';
-      content: '\e917';
+      content: '\e915';
       font-size: 8px;
       position: absolute;
       left: 0;
@@ -17061,7 +17061,7 @@ ul.category-list {
         left: 10px;
         display: inline-block;
         vertical-align: middle;
-        content: '\e917';
+        content: '\e915';
         font-size: 10px;
         font-family: 'icomoon';
         color: #1490B1;
