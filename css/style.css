@@ -12974,7 +12974,7 @@ body:not(.touch) .faq-wrap .nav-link:hover {
   content: "\e915";
   padding-left: 4px; }
 .slider-gallery .slick-prev:before {
-  content: "\e916";
+  content: "\e914";
   padding-right: 2px; }
 
 .slider-gallery-thumbs .slick-prev, .slider-gallery-thumbs .slick-next {
