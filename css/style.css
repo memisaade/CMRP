@@ -1836,12 +1836,11 @@ tbody.collapse.show {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 16px;
-  color: #787878;
+  color: #ffffff !important;
   text-align: left;
   list-style: none;
   background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem; }
 
 .dropup .dropdown-menu {
@@ -1865,7 +1864,7 @@ tbody.collapse.show {
   height: 0;
   margin: 15px 0;
   overflow: hidden;
-  border-top: 1px solid #e9ecef; }
+  border-top: 1px solid #ffffff; }
 
 .dropdown-item {
   display: block;
